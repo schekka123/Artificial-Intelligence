@@ -1,1 +1,1 @@
-# Artificial-Intelligence - Notes and works
+# Artificial-Intelligence - Notes and practice works
