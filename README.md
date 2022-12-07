@@ -1,1 +1,1 @@
-# Artificial-Intelligence-notes
+# Artificial-Intelligence
